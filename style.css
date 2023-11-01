@@ -1,0 +1,32 @@
+ol li {
+    color: purple;
+}
+
+
+p {
+    background-color: blue;
+    color: yellow;
+    font-family:
+}
+
+h1 {
+    color: red;
+    background-color: blue;
+    text-align: center;
+    text-decoration: underline;
+
+}
+
+h3 {
+    color: blue;
+}
+
+ul {
+    list-style: circle;
+    color: yellow;
+    background-color: green;
+}
+
+.container:hover {
+    border: 2px solid red;
+}
